@@ -1,0 +1,47 @@
+_repo: The-Sins-of-the-Father--A-Romance-of-the-South_36666
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cassel, John Harmon
+    birthdate: 1872
+    deathdate: 1961
+    gutenberg_agent_id: '37495'
+    url: http://www.gutenberg.org/2009/agents/37495
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dixon, Thomas
+    alias: Dixon, Thomas F.
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '679'
+    url: http://www.gutenberg.org/2009/agents/679
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Dixon,_Jr.
+description: '"Today, Thomas Dixon is perhaps best known as the author of the best-selling
+  early twentieth-century trilogy that included the novel The Clansman (1905), which
+  provided the core narrative for D.W. Griffith''s groundbreaking and still-controversial
+  film The Birth of a Nation . It was The Sins of the Father, however, that Dixon
+  regarded as the most aesthetically satisfying child of his Ku Klux Klan saga. In
+  this novel he telescopes the trilogy''s sprawling historical canvas into one tightly
+  scripted narrative. A best-seller in 1912, the novel''s themes of interracial sex
+  and incest outraged many.'
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'White supremacy movements -- Fiction'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Fiction'
+- !lcsh 'Ku Klux Klan (19th century) -- Fiction'
+- !lcsh 'Newspaper editors -- Fiction'
+- !lcsh 'North Carolina -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Political fiction'
+title: 'The Sins of the Father: A Romance of the South'
+url: http://www.gutenberg.org/ebooks/36666
